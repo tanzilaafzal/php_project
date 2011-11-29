@@ -1,0 +1,15 @@
+
+We develop online web application for quiz and survey in PHP language and MYSQL
+backend database as a semester project. It has two modules that are:
+• Admin after login can make assignments for user. Type of assignments are one
+is quiz and another is survey. Which have two categories one is quiz and another
+is survey e.g. test is a quiz category. Admin can add new question in each
+category. Admin can assign assignments for user. Admin when start the assign it
+will be automatically activated for those users which admin select. Admin can
+make user .Admin can make passing criteria for each assignment .Admin can
+define assignment duration.
+• User can login with their id and password. (Admin create the username and
+password for user). When user login assignment was start if any. After
+completion of assignment the point or number or result of user show to their.
+Our web application was able to check the answer was correct or wrong and give
+marks to student as admin define in rule when admin make the assignments.
